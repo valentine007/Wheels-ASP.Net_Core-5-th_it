@@ -300,9 +300,9 @@
       "resolved": "https://registry.npmjs.org/ast-types/-/ast-types-0.9.6.tgz"
     },
     "async": {
-      "version": "2.5.0",
+      "version": "4.0.3",
       "from": "async@>=2.1.2 <3.0.0",
-      "resolved": "https://registry.npmjs.org/async/-/async-2.5.0.tgz"
+      "resolved": "https://registry.npmjs.org/async/-/async-4.0.3.tgz"
     },
     "async-each": {
       "version": "1.0.1",
@@ -1441,7 +1441,7 @@
     "hosted-git-info": {
       "version": "2.5.0",
       "from": "hosted-git-info@>=2.1.4 <3.0.0",
-      "resolved": "https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-2.5.0.tgz"
+      "resolved": "https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-4.0.3.tgz"
     },
     "html-comment-regex": {
       "version": "1.1.1",
